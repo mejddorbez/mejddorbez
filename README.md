@@ -35,7 +35,4 @@ Account Stats | Most used Techs So far
 
  ☑️[My LinkedIn account](https://www.linkedin.com/in/mejd-dorbez-262404230)  ![](https://img.shields.io/badge/-informational?style=flat&logo=LinkedIn&logoColor=white&color=blue)
  <br><br>
- ☑️[![Follow me on Github✨](https://github.com/mejddorbez)] (https://img.shields.io/github/followers/mejddorbez?label=Follow&style=social) 
-
-
-
+ ☑️[Follow me on Github✨](https://github.com/mejddorbez) ![](https://img.shields.io/github/followers/mejddorbez?label=Follow&style=social)
