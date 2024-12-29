@@ -1,5 +1,4 @@
-# Hello World👋
-### I'm Mejd Eddine Dorbez <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello World! I'm Mejd Eddine Dorbez <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineering+Student;Full+Stack+Developer;Blockchain+Developer;Mobile+Development+enthusiast;Deep+Learning+and+Machine+Learning+enthusiast;DevOps+enthusiast;Always%20learning%20new%20things&center=false&width=500&height=50">
