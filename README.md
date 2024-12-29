@@ -12,7 +12,7 @@
     * Game Hacking & Modding: I explore creative ways to enhance games using tools like Cheat Engine and Lua scripting, with a focus on memory scanning and manipulation.
     * Blockchain & Web3: I have a strong interest in decentralized applications, blockchain protocols, and smart contract development using Solidity and Hardhat.
 
-### Beyond coding, I’m constantly seeking new challenges that push the boundaries of my knowledge. Whether it’s analyzing data, solving quantum puzzles, or innovating with blockchain, I thrive on learning and applying new technologies.
+* Beyond coding, I’m constantly seeking new challenges that push the boundaries of my knowledge. Whether it’s analyzing data, solving quantum puzzles, or innovating with blockchain, I thrive on learning and applying new technologies.
 
 * Adding to Dark Mode, listening to the Quran, and embracing the freedom of working independently to create and innovate are the things that I enjoy most in life! 😁
  
