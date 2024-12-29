@@ -24,9 +24,8 @@
 ![](https://img.shields.io/static/v1?label=&message=Java&color=red) ![](https://img.shields.io/static/v1?label=&message=Python&color=orange) ![](https://img.shields.io/static/v1?label=&message=Keras&color=yellow) ![](https://img.shields.io/static/v1?label=&message=Scikit-Learn&color=green)  ![](https://img.shields.io/static/v1?label=&message=seaborn&color=blue) ![](https://img.shields.io/static/v1?label=&message=Angular&color=blueviolet) ![](https://img.shields.io/static/v1?label=&message=SpringBoot&color=violet)
 
 - 📈 Here are some stats about my activity here on Github<br><br>
-![Count](https://visitor-badge.laobi.icu/badge?page_id=mejddorbez.mejddorbez) [![Github](https://img.shields.io/github/followers/mejddorbez?label=Follow&style=social)](https://github.com/mejddorbez) 
+[![Github](https://img.shields.io/github/followers/mejddorbez?label=Follow&style=social)](https://github.com/mejddorbez) 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=mejddorbez&hide_border=true&theme=dark" style="align=center"/><br><br>
 
 Account Stats | Most used Techs So far 
 :---: | :---:
