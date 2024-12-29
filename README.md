@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineering+Student;Full+Stack+Developer;Blockchain+Developer;Mobile+Development+enthusiast;Deep+Learning+and+Machine+Learning+enthusiast;DevOps+enthusiast;Always%20learning%20new%20things&center=false&width=500&height=50">
 </a>
 
+## 🚀 About me
 * I’m a passionate developer and tech enthusiast with a keen interest in exploring diverse technologies and domains ⚡ My journey spans across web development, AI and blockchain.
 
     * Web Development: I enjoy working on projects that involve frameworks like .NET MVC, Next.js, Flask, and Angular. I’m also experienced with backend integrations using MySQL, MongoDB, and API configurations.
@@ -15,16 +16,15 @@
 
 * Adding to Dark Mode, listening to the Quran, and embracing the freedom of working independently to create and innovate are the things that I enjoy most in life! 😁
  
-# {مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ }
-# [سُورَةُ النَّحۡلِ - الأَيَة 97] ✨
+<b style="font-size:26px">{مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ }<b>
+
+<b style="font-size:26px"> [سُورَةُ النَّحۡلِ - الأَيَة 97] ✨ </b>
 
 
-### ✨ I am familiar with
+## ✨ I am familiar with
 ![](https://img.shields.io/static/v1?label=&message=Java&color=red) ![](https://img.shields.io/static/v1?label=&message=Python&color=orange) ![](https://img.shields.io/static/v1?label=&message=Keras&color=yellow) ![](https://img.shields.io/static/v1?label=&message=Scikit-Learn&color=green)  ![](https://img.shields.io/static/v1?label=&message=seaborn&color=blue) ![](https://img.shields.io/static/v1?label=&message=Angular&color=blueviolet) ![](https://img.shields.io/static/v1?label=&message=SpringBoot&color=violet)
 
-- 📈 Here are some stats about my activity here on Github<br><br>
-[![Github](https://img.shields.io/github/followers/mejddorbez?label=Follow&style=social)](https://github.com/mejddorbez) 
-
+## 📈 Here are some stats about my activity here on Github
 
 Account Stats | Most used Techs So far 
 :---: | :---:
@@ -36,3 +36,6 @@ Account Stats | Most used Techs So far
 ### ✨ See you on the other side!
 
  ☑️[My LinkedIn account](https://www.linkedin.com/in/mejd-dorbez-262404230)  ![](https://img.shields.io/badge/-informational?style=flat&logo=LinkedIn&logoColor=white&color=blue)
+ ☑️[![Follow me on Github✨](https://img.shields.io/github/followers/mejddorbez?label=Follow&style=social)](https://github.com/mejddorbez) 
+
+
