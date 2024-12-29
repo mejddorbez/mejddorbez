@@ -16,9 +16,9 @@
 
 * Adding to Dark Mode, listening to the Quran, and embracing the freedom of working independently to create and innovate are the things that I enjoy most in life! 😁
  
-<b style="font-size:46px">{مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ }<b>
+<h1>{مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ }<h1>
 
-<h2 style="font-size:46px"> [سُورَةُ النَّحۡلِ - الأَيَة 97] ✨ </h2>
+<h1> [سُورَةُ النَّحۡلِ - الأَيَة 97] ✨ </h1>
 
 
 ## ✨ I am familiar with
