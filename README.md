@@ -1,22 +1,21 @@
-# Hello Everyone 👋
+# Hello World👋
 ### I'm Mejd Eddine Dorbez <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineering+Student;Full+Stack+Developer;Blockchain+Developer;Mobile+Development+enthusiast;Deep+Learning+and+machine+learning+enthusiast;DevOps+enthusiast;Always%20learning%20new%20things&center=false&width=500&height=50">
 </a>
 
-* I’m a passionate developer and tech enthusiast with a keen interest in exploring diverse technologies and domains. My journey spans across web development, AI, game hacking and blockchain.
+* I’m a passionate developer and tech enthusiast with a keen interest in exploring diverse technologies and domains ⚡ My journey spans across web development, AI and blockchain.
 
     * Web Development: I enjoy working on projects that involve frameworks like .NET MVC, Next.js, Flask, and Angular. I’m also experienced with backend integrations using MySQL, MongoDB, and API configurations.
     * AI & Data Science: I dive deep into deep learning, natural language processing, and data engineering using tools like TensorFlow, PySpark, and NLTK.
-    * Game Hacking & Modding: I explore creative ways to enhance games using tools like Cheat Engine and Lua scripting, with a focus on memory scanning and manipulation.
     * Blockchain & Web3: I have a strong interest in decentralized applications, blockchain protocols, and smart contract development using Solidity and Hardhat.
 
 * Beyond coding, I’m constantly seeking new challenges that push the boundaries of my knowledge. Whether it’s analyzing data, solving quantum puzzles, or innovating with blockchain, I thrive on learning and applying new technologies.
 
 * Adding to Dark Mode, listening to the Quran, and embracing the freedom of working independently to create and innovate are the things that I enjoy most in life! 😁
  
-* 😄 Favorite Quote: **The man who removes a mountain begins by carrying away small stones - Chinese proverbs**
+* {مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ (97)}
 
 
 
