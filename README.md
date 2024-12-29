@@ -16,7 +16,7 @@
 * Adding to Dark Mode, listening to the Quran, and embracing the freedom of working independently to create and innovate are the things that I enjoy most in life! 😁
  
 ## {مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ }
-## {سورة النحل - 97}
+## [سورة النحل - 97] ✨
 
 
 ### ✨ I am familiar with
