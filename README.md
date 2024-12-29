@@ -19,6 +19,8 @@
 <b style="font-size:46px">{مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ }<b>
 
 <b style="font-size:46px"> [سُورَةُ النَّحۡلِ - الأَيَة 97] ✨ </b>
+<p style="font-size: 24px;">This is a larger font using inline CSS</p>
+<font size="5">This is a larger font using the <font> tag</font>
 
 
 ## ✨ I am familiar with
