@@ -16,9 +16,9 @@
 
 * Adding to Dark Mode, listening to the Quran, and embracing the freedom of working independently to create and innovate are the things that I enjoy most in life! 😁
  
-<b style="font-size:26px">{مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ }<b>
+<b style="font-size:46px">{مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ }<b>
 
-<b style="font-size:26px"> [سُورَةُ النَّحۡلِ - الأَيَة 97] ✨ </b>
+<b style="font-size:46px"> [سُورَةُ النَّحۡلِ - الأَيَة 97] ✨ </b>
 
 
 ## ✨ I am familiar with
@@ -36,6 +36,8 @@ Account Stats | Most used Techs So far
 ### ✨ See you on the other side!
 
  ☑️[My LinkedIn account](https://www.linkedin.com/in/mejd-dorbez-262404230)  ![](https://img.shields.io/badge/-informational?style=flat&logo=LinkedIn&logoColor=white&color=blue)
+ <br>
  ☑️[![Follow me on Github✨](https://img.shields.io/github/followers/mejddorbez?label=Follow&style=social)](https://github.com/mejddorbez) 
+
 
 
